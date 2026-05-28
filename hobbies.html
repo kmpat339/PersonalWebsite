@@ -43,7 +43,10 @@
         <p class="timeline-help">
           Click a milestone to read the story behind it.
         </p>
-
+        <!-- Just wanted to say this is really clean. Using a real button means
+          it works with keyboard and screen readers without extra JS. 
+          The aria-expanded and aria-controls also match up with the right panel below. 
+          I also like that you kept things split like class for styling, aria for accessibility, data-target for the JS. -->
         <ol class="timeline-track">
           <li class="timeline-step">
             <button
