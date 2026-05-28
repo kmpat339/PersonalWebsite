@@ -26,6 +26,7 @@ interests that shape how I work and create.
 
 [Video Demo](https://youtu.be/wGmoQGcFV0g)
 
+<!-- It should be "Page site", not page cite -->
 [Page cite](https://julianleonhardt2.github.io/PersonalWebsite/)
 
 ## Tech Stack
